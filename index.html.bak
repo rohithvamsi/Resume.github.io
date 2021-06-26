@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  
+  <title>Document</title>
+ </head>
+ <body>
+ <table cellspacing="20">
+ <tr>
+ <td><img src="circle-cropped.png" height="200" width="200"></td>
+ <td><h1>ROHITH</h1>
+ <p><strong>Java developer</strong></p>
+ </td>
+ </tr>
+ </table>
+ <hr>
+ <h3>Courses Achived</h3>
+ <ul>
+ <li>Full stack development</li>
+ <li>fusion360</li>
+ <li>AutoCAD</li>
+ </ul>
+ <h3>Education Qualification</h3>
+ <table cellpadding="5">
+ <tr>
+ <th>Year</th>
+ <th>Qualification</th>
+ <th>GPA/%</th>
+ </tr>
+ <tr>
+ <td>2015-2019</td>
+ <td>B-TECH</td>
+ <td>7.74Gpa</td>
+ </tr>
+ <tr>
+ <td>2013-2015</td>
+ <td>INTER</td>
+ <td>81%</td>
+ </tr>
+ <tr>
+ <td>2013</td>
+ <td>SSC</td>
+ <td>7.8</td>
+ </tr>
+ </table>
+ <h3>Skills</h3>
+ <table>
+ <tr>
+ <td>Java</td>
+ <td>*****</td>
+ <td>dancing</td>
+ <td>*****</td>
+ </tr>
+ <tr>
+ <td>web development</td>
+ <td>*****</td>
+ <td>drawing</td>
+ <td>*****</td>
+ </tr>
+ </table>
+ <hr>
+ <a href="hobbies.html">Hobbies</a>
+ <a href="contact.html">Contact</a>
+ </body>
+</html>
